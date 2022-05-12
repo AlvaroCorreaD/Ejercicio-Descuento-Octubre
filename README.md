@@ -1,2 +1,2 @@
-# Ejercicio-Descuento-Octubre
-Created with CodeSandbox
+# Ejercicio de Estructuras de Control - Selección
+Descuento Octubre
